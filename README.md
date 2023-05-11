@@ -32,9 +32,13 @@ ls -l
 Contributions to this repository are welcome! If you have additional scripts that could benefit the automation and DevOps community, feel free to submit a pull request.
 
 1- Fork the repository.
+
 2- Create a new branch for your feature or bug fix.
+
 3- Make your changes and commit them with descriptive messages.
+
 4- Push your changes to your forked repository.
+
 5- Submit a pull request, explaining the purpose and functionality of your changes.
 
 
